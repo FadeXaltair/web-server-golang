@@ -1,1 +1,1 @@
-basic web server n golnag
+basic web server in golnag
